@@ -1,0 +1,12 @@
+# Virtual environment.
+ll_env
+
+# Media files.
+media
+
+# DB.
+db.sqlite3
+
+# Python.
+migrations
+__pycache__
